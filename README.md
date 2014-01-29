@@ -28,36 +28,36 @@ Two different use cases were proposed.
 
 Resources
 =============
-[BetaNYC School Choice Wiki](https://github.com/BetaNYC/Tools-for-NYC-Council-and-Community-Boards/wiki/School-choice---transit-hacknight)
-[IZone DOE Data Sets](http://nycdoe.pediacities.com/)
+* [BetaNYC School Choice Wiki](https://github.com/BetaNYC/Tools-for-NYC-Council-and-Community-Boards/wiki/School-choice---transit-hacknight)
+* [IZone DOE Data Sets](http://nycdoe.pediacities.com/)
 
 Trip Planners
 -------------
-Mapnificent
-OpenTripPlanner
-rrrr - https://github.com/bliksemlabs/rrrr
+* Mapnificent
+* OpenTripPlanner
+* rrrr - https://github.com/bliksemlabs/rrrr
 
 ### Mapnificent
-[Site](http://www.mapnificent.net/)
-[Source](https://github.com/stefanw/Mapnificent)
-[API](http://www.mapnificent.net/docs/)
+* [Site](http://www.mapnificent.net/)
+* [Source](https://github.com/stefanw/Mapnificent)
+* [API](http://www.mapnificent.net/docs/)
 
 ### OpenTripPlanner
-[Site](http://opentripplanner.com/)
-[Docs](http://opentripplanner.com/users-developers/)
-[Wiki](https://github.com/opentripplanner/OpenTripPlanner/wiki)
-[Tri-state implementation](https://docs.google.com/document/d/1n8wkqiRFMAxmgu-MYpCTriCokSzunKbeErfmnm1WyRI/edit)
-[Developer](https://twitter.com/globalvoid) - He's blogged/worked? for Open Plans
+* [Site](http://opentripplanner.com/)
+* [Docs](http://opentripplanner.com/users-developers/)
+* [Wiki](https://github.com/opentripplanner/OpenTripPlanner/wiki)
+* [Tri-state implementation](https://docs.google.com/document/d/1n8wkqiRFMAxmgu-MYpCTriCokSzunKbeErfmnm1WyRI/edit)
+* [Developer](https://twitter.com/globalvoid) - He's blogged/worked? for Open Plans
 
 ### GTFS Data Exchange
-[Site](http://www.gtfs-data-exchange.com/)
-[Source](https://github.com/jehiah/gtfs-data-exchange)
-[API](http://www.gtfs-data-exchange.com/api)
-[Developer](https://github.com/jehiah) - Based in NYC
+* [Site](http://www.gtfs-data-exchange.com/)
+* [Source](https://github.com/jehiah/gtfs-data-exchange)
+* [API](http://www.gtfs-data-exchange.com/api)
+* [Developer](https://github.com/jehiah) - Based in NYC
 
 ### GTFS - Google Transit Feed Specification
-[Reference](https://developers.google.com/transit/gtfs/reference)
-[MTA Developers Site](http://web.mta.info/developers/)
+* [Reference](https://developers.google.com/transit/gtfs/reference)
+* [MTA Developers Site](http://web.mta.info/developers/)
 
 **LICENSE**
 ------------

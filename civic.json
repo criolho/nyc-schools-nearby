@@ -1,0 +1,16 @@
+{
+        "status": "Alpha",
+        "thumbnailUrl": "",
+        "bornAt": "BetaNYC Hacknights",
+        "geography": "NYC",
+        "politicalEntity":"NYC DOE",
+        "type":"Web App",
+        "needs": [
+                {"need": "Web Designer"},
+                {"need": "OpenStreetMap Dev"},
+                {"need": "Javascript Dev"}
+        ],
+        "categories": [
+                {"category": "Education"}
+        ]
+}
