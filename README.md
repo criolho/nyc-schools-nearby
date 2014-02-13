@@ -1,12 +1,12 @@
 nyc-schools-nearby
 =============
 
-App to help prospective NYC high school students filter a list of high schools within a set commute time.
+Every year 80,000 middle-school students and their families choose a high school to attend. In Fall 2012, the NYC Department of Education (NYCDOE) released its first-ever API for high school data to help them choose. Already, six developers have built apps with the data, but many students and parents want to narrow down their school options by geography: commute time, a given route, or other transportation considerations (i.e. I only want to take the subway).  This is a JavaScript API to distill geographic information about high schools.
 
 Current Status
 -------------
 
-This project is currently not yet functioning. Please check out notes from the 
+This project is currently not yet functioning.
 
 Goal
 -------------
