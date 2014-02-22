@@ -30,6 +30,7 @@ Resources
 =============
 * [BetaNYC School Choice Wiki](https://github.com/BetaNYC/Tools-for-NYC-Council-and-Community-Boards/wiki/School-choice---transit-hacknight)
 * [IZone DOE Data Sets](http://nycdoe.pediacities.com/)
+* [Public Policy Lab Design Discovery](http://publicpolicylab.org/2014/02/the-school-choice-experience/)
 
 Trip Planners
 -------------
