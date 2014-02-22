@@ -62,5 +62,3 @@ Trip Planners
 **LICENSE**
 ------------
 **Parts of this project are based on code from [Mapnificent](http://www.mapnificent.net/) by [Stephan Wehrymeyer](http://stefanwehrmeyer.com/).The framework and layers are released under [Creative Commons by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0).**
-
-hello
