@@ -20,7 +20,7 @@ Two different use cases were proposed.
 2. Use Case #2 - Students/parents with a small list of preferred schools want to compare specific commuting routes.
 
 ### Implementation options for Use Case #1:
-* Calculate time between nearest stop to address and nearest stop to school using GTFS. Implement as a javascript web worker in browser or API backend. 
+* Calculate time between nearest stop to address and nearest stop to school using GTFS. Implement as a javascript web worker in browser or API backend.
 * Use an existing trip planner API (Google Transit, Mapbox, OpenTripPlanner, rrrr) for time from every subway/bus stop or intersection to every school then just find closest point to address. Implement as API querying a database of cached transit times.
 
 ### Implementation options for Use Case #2:
@@ -62,3 +62,5 @@ Trip Planners
 **LICENSE**
 ------------
 **Parts of this project are based on code from [Mapnificent](http://www.mapnificent.net/) by [Stephan Wehrymeyer](http://stefanwehrmeyer.com/).The framework and layers are released under [Creative Commons by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0).**
+
+hello
