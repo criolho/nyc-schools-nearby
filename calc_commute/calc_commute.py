@@ -1,4 +1,5 @@
 def commute_search(stop, time):
+    time = float(time)
     return [s for s in school if set(reachable(s)) & set(trains[stop])]
 
 
@@ -44,4 +45,15 @@ stop = trains.keys()
 
 #=========SCRIPT STARTS HERE===============#
 import sys
-print commute_search(sys.argv[1], sys.argv[2])
+if len(sys.argv)==2:
+    if sys.argv[1] == 'stops':
+        print stop
+    elif sys.argv[1] == 'schools':
+        print school
+    else:
+        print 'Unknown parameter options supplied:',sys.argv,'Try "stops" or "schools"'
+else:
+    try:
+        print commute_search(sys.argv[1], sys.argv[2])
+    except:
+        print 'Unknown parameter options supplied:',sys.argv,'Try stop and time'
