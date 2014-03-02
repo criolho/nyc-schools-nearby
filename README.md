@@ -60,6 +60,38 @@ Trip Planners
 * [Reference](https://developers.google.com/transit/gtfs/reference)
 * [MTA Developers Site](http://web.mta.info/developers/)
 
+
+Setup
+===========
+
+The following instructions assume that you already have Python 2.7 and pip installed on your computer. If not, please do so now. Then, install the required software by executing the following line:
+
+```python
+  sudo pip install -r requirements.txt
+```
+
+Usage
+===========
+
+There are two ways you can run the software.
+
+### Commandline
+
+```
+  python lib/commute.py
+```
+
+Or:
+
+### API
+
+```
+  python app.py
+```
+
+  
+
+
 **LICENSE**
 ------------
 **Parts of this project are based on code from [Mapnificent](http://www.mapnificent.net/) by [Stephan Wehrymeyer](http://stefanwehrmeyer.com/).The framework and layers are released under [Creative Commons by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/3.0).**
