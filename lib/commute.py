@@ -12,26 +12,40 @@ def reachable(school):
     return the trains of a school
     """
     trains = []
-    routes = subways[school].split(';  ')
+    routes = subways_near_school()[school].split(';  ')
     for r in routes:
         trains+=r.split(' to ')[0].split(', ')
     return trains
 
 
 #=========READ IN SCHOOL AND TRANSIT DATA========#
-# TODO: improve documentation
-def schools():
-    #read in schools from pediacities
+def transit_data():
+    """
+        Read in schools from pediacities
+    """
     url = 'http://nycdoe.pediacities.com/api/action/datastore_search_sql?sql=SELECT%20%22Printed_Name%22,%22BUS%22,%22SUBWAY%22%20from%20%2245f6a257-c13a-431b-acb9-b1468c3ff1e9%22'
     s = urllib.urlopen(url).read()
     list_string = s[s.index('['):s.index(']')+1]
-    data = ast.literal_eval(list_string)  # [ {'BUS':'M14AD, ...',
-    subways = {}
+    return ast.literal_eval(list_string)  # [ {'BUS':'M14AD, ...',
+
+# TODO: improve documentation
+def schools():
+    names = []
+    for d in transit_data():
+        names.append(d['Printed_Name'])
+    return names
+
+def buses_near_school():
     buses = {}
-    for d in data:
+    for d in transit_data():
         buses[d['Printed_Name']] = d['BUS']
+    return buses
+
+def subways_near_school():
+    subways = {}
+    for d in transit_data():
         subways[d['Printed_Name']] = d['SUBWAY']
-    return buses.keys()
+    return subways
 
 # TODO: improve documentation
 def subway_stops():
