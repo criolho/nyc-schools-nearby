@@ -3,10 +3,34 @@ nyc-schools-nearby
 
 Every year 80,000 middle-school students and their families choose a high school to attend. In Fall 2012, the NYC Department of Education (NYCDOE) released its first-ever API for high school data to help them choose. Already, six developers have built apps with the data, but many students and parents want to narrow down their school options by geography: commute time, a given route, or other transportation considerations (i.e. I only want to take the subway).  This is a JavaScript API to distill geographic information about high schools.
 
-Current Status
--------------
 
-This project is currently not yet functioning.
+Setup
+===========
+
+The following instructions assume that you already have Python 2.7 and pip installed on your computer. If not, please do so now. Then, install the required software by executing the following line:
+
+```python
+  sudo pip install -r requirements.txt
+```
+
+Usage
+===========
+
+There are two ways you can run the software.
+
+### Commandline
+
+```
+  python lib/commute.py
+```
+
+Or:
+
+### API
+
+```
+  python app.py
+```
 
 Goal
 -------------
@@ -61,33 +85,6 @@ Trip Planners
 * [MTA Developers Site](http://web.mta.info/developers/)
 
 
-Setup
-===========
-
-The following instructions assume that you already have Python 2.7 and pip installed on your computer. If not, please do so now. Then, install the required software by executing the following line:
-
-```python
-  sudo pip install -r requirements.txt
-```
-
-Usage
-===========
-
-There are two ways you can run the software.
-
-### Commandline
-
-```
-  python lib/commute.py
-```
-
-Or:
-
-### API
-
-```
-  python app.py
-```
 
 
 
