@@ -6,8 +6,8 @@ import os
 # TODO: write documentation
 def commute_search(stop, time):
     time = float(time)
-    subway = pickle.load(open('subway_network','r'))  # networkx graph with subway stops and times
-    schools = pickle.load(open('school_stops'))  # dictionary with list of subway stop for a school
+    subway = pickle.load(open(os.path.dirname(os.path.realpath(__file__))+'/subway_network','r'))  # networkx graph with subway stops and times
+    schools = pickle.load(open(os.path.dirname(os.path.realpath(__file__))+'/school_stops'))  # dictionary with list of subway stop for a school
     potential_schools = []
     for school in schools:
         for school_stop in schools[school]:
