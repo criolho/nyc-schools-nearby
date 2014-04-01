@@ -12,8 +12,9 @@ def commute_search(stop, time):
     for school in schools:
         for school_stop in schools[school]:
             try:
-                if subway_time(subway, stop, school_stop) < time:
-                    potential_schools.append(school)
+                s_time = subway_time(subway, stop, school_stop)
+                if s_time < time:
+                    potential_schools.append({"time": s_time, "name": school})
                     break
             except nx.exception.NetworkXError:
                 #print "stop not in subway network? :",school_stop
