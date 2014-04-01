@@ -3,7 +3,11 @@ import networkx as nx
 import pickle
 import os
 
-# TODO: write documentation
+# TODO: Given multiple stops and a time in minutes, returns schools reachable from those stops under specified number of minutes. When two subway lines have different transit times, returns the one with the shortest transit time.
+def commute_search_multi_stops(stops, time):
+    pass
+
+# Given a stop (refer to stops endpoint for acceptable input values) and a time in minutes, returns schools reachable from that stop under specified number of minutes
 def commute_search(stop, time):
     time = float(time)
     subway = pickle.load(open(os.path.dirname(os.path.realpath(__file__))+'/subway_network','r'))  # networkx graph with subway stops and times
