@@ -14,49 +14,49 @@ DBN,Printed_Name,BUS,SUBWAY
 02M303,The Facing History School,M11  M20  M31  M34A-SBS  M42  M50  M57,C  E to 50 St
 02M305,The Urban Assembly Academy of Government and Law,M103  M14AD  M15  M15-SBS  M21  M22  M9,F  J  M  Z to Delancey St; to Essex St;  B  D to Grand St
 02M308,Lower Manhattan Arts Academy,M103  M14AD  M15  M15-SBS  M21  M22  M9,F  J  M  Z to Delancey St; to Essex St;  B  D to Grand St
-02M316,The Urban Assembly School of Business for Young Women,M15  M15-SBS  M20  M5,4  5 to Bowling Green;  J  Z to Broad St;  A  C to Fulton St - Broadway - Nassau;  1  R to Rector St;  2  3 to Wall St;  1  R to Whitehall;  E to World Trade Center
+02M316,The Urban Assembly School of Business for Young Women,M15  M15-SBS  M20  M5,4  5 to Bowling Green;  J  Z to Broad St;  A  C to Fulton St;  1  R to Rector St;  2  3 to Wall St;  1  R to Whitehall St;  E to World Trade Center
 02M374,Gramercy Arts High School,M1  M101  M103  M14AD  M15  M2  M23  M3  M34A-SBS  M5  M8  M9,1  2  3  F  M to 14 St;  4  5  6  L  N  Q  R to Union Sq - 14 St;  L to 3 Av
 02M376,NYC iSchool,M20  M21  M5,B  D  F  M to Broadway-Lafayette St;  1  6  A  J  N  Q  R  Z to Canal St;  N  R to Prince St;  C  E to Spring St
-02M392,Manhattan Business Academy,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St - 8 Av;  1 to 18 St
+02M392,Manhattan Business Academy,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St;  1 to 18 St
 02M393,Business of Sports School,M10  M104  M11  M20  M31  M34A-SBS  M42  M50  M57  M7,A to 42 St - Port Authority Bus Terminal;  N  Q  R to 49 St;  1  C  E to 50 St;  B  D to 59 St - Columbus Circle;  B  D to 7 Av
 02M399,The High School for Language and Diplomacy,M1  M101  M103  M14AD  M15  M2  M23  M3  M34A-SBS  M5  M8  M9,1  2  3  F  M to 14 St;  4  5  6  L  N  Q  R to Union Sq - 14 St;  L to 3 Av
-02M400,High School for Environmental Studies,M10  M104  M11  M20  M31  M5  M50  M57  M66  M7,E to 50 St;  N  Q  R to 57 St -  7 Av;  1  A  B  C  D to 59 St - Columbus Circle
+02M400,High School for Environmental Studies,M10  M104  M11  M20  M31  M5  M50  M57  M66  M7,E to 50 St;  N  Q  R to 57 St;  1  A  B  C  D to 59 St - Columbus Circle
 02M407,Institute for Collaborative Education,M1  M101  M103  M14AD  M15  M2  M23  M3  M34A-SBS  M8  M9,4  5  6  N  Q  R to Union Sq - 14 St;  L to 1 Av
-02M408,Professional Performing Arts High School,M10  M104  M11  M20  M31  M34A-SBS  M42  M5  M50  M57  M7,A to 42 St - Port Authority Bus Terminal;  F  M to 47 - 50 Sts Rockefeller Center;  N  Q  R to 49 St;  1  C  E to 50 St;  B  D to 7 Av;  2  3  7  S to Times Sq - 42nd St
+02M408,Professional Performing Arts High School,M10  M104  M11  M20  M31  M34A-SBS  M42  M5  M50  M57  M7,A to 42 St - Port Authority Bus Terminal;  F  M to 47-50 Sts - Rockefeller Ctr;  N  Q  R to 49 St;  1  C  E to 50 St;  B  D to 7 Av;  2  3  7  S to Times Sq - 42 St
 02M411,Baruch College Campus High School,M1  M101  M15  M2  M23  M3  M34A-SBS  M4  M5,4  5  L  Q to Union Sq - 14 St;  6  F  M  N  R to 23 St;  B  D to 34 St - Herald Sq
-02M412,NYC Lab School for Collaborative Studies,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St - 8 Av;  1 to 18 St
+02M412,NYC Lab School for Collaborative Studies,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St;  1 to 18 St
 02M413,School of the Future High School,M1  M101  M14AD  M15  M2  M23  M34A-SBS  M5  M9,4  5  L  Q to Union Sq - 14 St;  6  F  M  N  R to 23 St
-02M414,NYC Museum School,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St - 8 Av;  1 to 18 St
+02M414,NYC Museum School,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St;  1 to 18 St
 02M416,Eleanor Roosevelt High School,M101  M15  M31  M66  M72  M79  M86  M98  Q102,6 to 77 St
-02M418,Millennium High School,M15  M15-SBS  M20  M5,4  5 to Bowling Green;  J  Z to Broad St;  A  C to Fulton St - Broadway - Nassau;  2  3 to Wall St;  1  R to Whitehall;  E to World Trade Center
-02M419,Landmark High School,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St - 8 Av;  1 to 18 St
+02M418,Millennium High School,M15  M15-SBS  M20  M5,4  5 to Bowling Green;  J  Z to Broad St;  A  C to Fulton St;  2  3 to Wall St;  1  R to Whitehall St;  E to World Trade Center
+02M419,Landmark High School,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St;  1 to 18 St
 02M420,High School for Health Professions and Human Services,M1  M101  M103  M14AD  M15  M2  M23  M3  M34A-SBS  M8  M9,4  5  6  N  Q  R to Union Sq - 14 St;  L to 1 Av
-02M422,Quest to Learn,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St - 8 Av;  1 to 18 St
-02M425,Leadership and Public Service High School,M15  M15-SBS  M20  M22  M5  M9,J  Z to Broad St;  6 to Brooklyn Bridge - City Hall;  2  3  A  C to Fulton St - Broadway - Nassau;  1  R to Rector St;  4  5 to Wall St;  E to World Trade Center
-02M427,Manhattan Academy for Arts & Language,M1  M101  M15  M2  M3  M34A-SBS  M34-SBS  M4  M42  M5  M7,6 to 33 St;  B  D  F  M  N  Q  R to 34 St - Herald Sq;  4  5  7  S to Grand Central
-02M432,Murray Hill Academy,M1  M101  M15  M2  M3  M34A-SBS  M34-SBS  M4  M42  M5  M7,6 to 33 St;  B  D  F  M  N  Q  R to 34 St - Herald Sq;  4  5  7  S to Grand Central
-02M437,Hudson High School of Learning Technologies,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St - 8 Av;  1 to 18 St
+02M422,Quest to Learn,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St;  1 to 18 St
+02M425,Leadership and Public Service High School,M15  M15-SBS  M20  M22  M5  M9,J  Z to Broad St;  6 to Brooklyn Bridge - City Hall;  2  3  A  C to Fulton St;  1  R to Rector St;  4  5 to Wall St;  E to World Trade Center
+02M427,Manhattan Academy for Arts & Language,M1  M101  M15  M2  M3  M34A-SBS  M34-SBS  M4  M42  M5  M7,6 to 33 St;  B  D  F  M  N  Q  R to 34 St - Herald Sq;  4  5  7  S to Grand Central - 42 St
+02M432,Murray Hill Academy,M1  M101  M15  M2  M3  M34A-SBS  M34-SBS  M4  M42  M5  M7,6 to 33 St;  B  D  F  M  N  Q  R to 34 St - Herald Sq;  4  5  7  S to Grand Central - 42 St
+02M437,Hudson High School of Learning Technologies,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St;  1 to 18 St
 02M438,International High School at Union Sq,M1  M101  M103  M14AD  M15  M2  M23  M3  M34A-SBS  M5  M8  M9,1  2  3  F  M to 14 St;  4  5  6  L  N  Q  R to Union Sq - 14 St;  L to 3 Av
-02M439,Manhattan Village Academy,M1  M101  M14AD  M2  M20  M23  M4  M5  M7,2  3  L to 14 St;  A to 14 St - 8 Av;  4  5  Q to Union Sq - 14 St;  1  6  C  E  F  M  N  R to 23 St;  B  D to 34 St - Herald Sq
-02M449,Vangua High School,M1  M101  M15  M31  M57  M66  M72  M98  Q101  Q32  Q60,6 to 68 St -  Hunter College;  4  5  N  Q  R to Lexington Av/59 St;  F to Lexington Av/63 St
-02M459,Manhattan International High School,M1  M101  M15  M31  M57  M66  M72  M98  Q101  Q32  Q60,6 to 68 St -  Hunter College;  4  5  N  Q  R to Lexington Av/59 St;  F to Lexington Av/63 St
-02M489,High School of Economics and Finance,M15  M15-SBS  M20  M22  M5  M9,J  Z to Broad St;  6 to Brooklyn Bridge - City Hall;  R to Cortlandt St;  2  3  A  C to Fulton St - Broadway - Nassau;  1 to Rector St;  4  5 to Wall St;  E to World Trade Center
-02M500,Unity Center for Urban Technologies,M1  M101  M15  M2  M3  M34A-SBS  M34-SBS  M4  M42  M5  M7,6 to 33 St;  B  D  F  M  N  Q  R to 34 St - Herald Sq;  4  5  7  S to Grand Central
+02M439,Manhattan Village Academy,M1  M101  M14AD  M2  M20  M23  M4  M5  M7,2  3  L to 14 St;  A to 14 St;  4  5  Q to Union Sq - 14 St;  1  6  C  E  F  M  N  R to 23 St;  B  D to 34 St - Herald Sq
+02M449,Vangua High School,M1  M101  M15  M31  M57  M66  M72  M98  Q101  Q32  Q60,6 to 68 St - Hunter College;  4  5  N  Q  R to Lexington Av/59 St;  F to Lexington Av/63 St
+02M459,Manhattan International High School,M1  M101  M15  M31  M57  M66  M72  M98  Q101  Q32  Q60,6 to 68 St - Hunter College;  4  5  N  Q  R to Lexington Av/59 St;  F to Lexington Av/63 St
+02M489,High School of Economics and Finance,M15  M15-SBS  M20  M22  M5  M9,J  Z to Broad St;  6 to Brooklyn Bridge - City Hall;  R to Cortlandt St;  2  3  A  C to Fulton St;  1 to Rector St;  4  5 to Wall St;  E to World Trade Center
+02M500,Unity Center for Urban Technologies,M1  M101  M15  M2  M3  M34A-SBS  M34-SBS  M4  M42  M5  M7,6 to 33 St;  B  D  F  M  N  Q  R to 34 St - Herald Sq;  4  5  7  S to Grand Central - 42 St
 02M507,The Urban Assembly Gateway School for Technology,M10  M104  M11  M20  M31  M34A-SBS  M42  M50  M57  M7,A to 42 St - Port Authority Bus Terminal;  N  Q  R to 49 St;  1  C  E to 50 St;  B  D to 59 St - Columbus Circle;  B  D to 7 Av
-02M519,Talent Unlimited High School,M1  M101  M15  M31  M57  M66  M72  M98  Q101  Q32  Q60,6 to 68 St -  Hunter College;  4  5  N  Q  R to Lexington Av/59 St;  F to Lexington Av/63 St
-02M520,Murry Bergtraum High School for Business Careers,M103  M15  M22  M5  M9,4  5  6 to Brooklyn Bridge - City Hall;  N  Q to Canal St;  1  J  Z to Chambers St;  R to City Hall;  2  3  A  C to Fulton St - Broadway - Nassau;  E to Park Pl
-02M529,Jacqueline Kennedy Onassis High School,M1  M104  M11  M2  M20  M3  M34A-SBS  M4  M42  M5  M50  M7,7 to 42nd St - Bryant Park;  A  C  E to 42 St - Port Authority Bus Terminal;  B  D  F  M to 47 - 50 Sts Rockefeller Center;  N  Q  R to 49 St;  4  5  6 to Grand Central;  1  2  3  S to Times Sq - 42nd St
-02M531,Repertory Company High School for Theatre Arts,M1  M104  M11  M2  M20  M3  M34A-SBS  M4  M42  M5  M50  M7,7  B  D  F  M to 42nd St - Bryant Park;  A  C  E to 42 St - Port Authority Bus Terminal;  4  5  6 to Grand Central;  1  2  3  N  Q  R  S to Times Sq - 42nd St
+02M519,Talent Unlimited High School,M1  M101  M15  M31  M57  M66  M72  M98  Q101  Q32  Q60,6 to 68 St - Hunter College;  4  5  N  Q  R to Lexington Av/59 St;  F to Lexington Av/63 St
+02M520,Murry Bergtraum High School for Business Careers,M103  M15  M22  M5  M9,4  5  6 to Brooklyn Bridge - City Hall;  N  Q to Canal St;  1  J  Z to Chambers St;  R to City Hall;  2  3  A  C to Fulton St;  E to Park Pl
+02M529,Jacqueline Kennedy Onassis High School,M1  M104  M11  M2  M20  M3  M34A-SBS  M4  M42  M5  M50  M7,7 to 42 St - Bryant Park;  A  C  E to 42 St - Port Authority Bus Terminal;  B  D  F  M to 47-50 Sts - Rockefeller Ctr;  N  Q  R to 49 St;  4  5  6 to Grand Central - 42 St;  1  2  3  S to Times Sq - 42 St
+02M531,Repertory Company High School for Theatre Arts,M1  M104  M11  M2  M20  M3  M34A-SBS  M4  M42  M5  M50  M7,7  B  D  F  M to 42 St - Bryant Park;  A  C  E to 42 St - Port Authority Bus Terminal;  4  5  6 to Grand Central - 42 St;  1  2  3  N  Q  R  S to Times Sq - 42 St
 02M533,Union Sq Academy for Health Sciences,M1  M101  M103  M14AD  M15  M2  M23  M3  M34A-SBS  M5  M8  M9,1  2  3  F  M to 14 St;  4  5  6  L  N  Q  R to Union Sq - 14 St;  L to 3 Av
-02M534,Harvest Collegiate High School,M1  M101  M14AD  M2  M20  M23  M5  M7  M8,4  5  6  N  Q  R to Union Sq - 14 St;  1  2  3  F  L  M to 6 Av;  A  B  C  D  E to WeSt4 St
+02M534,Harvest Collegiate High School,M1  M101  M14AD  M2  M20  M23  M5  M7  M8,4  5  6  N  Q  R to Union Sq - 14 St;  1  2  3  F  L  M to 6 Av;  A  B  C  D  E to W 4 St
 02M542,Manhattan Bridges High School,M11  M20  M31  M34A-SBS  M42  M50  M57,C  E to 50 St
 02M543,New Design High School,M103  M14AD  M15  M15-SBS  M21  M22  M9,F  J  M  Z to Delancey St; to Essex St;  B  D to Grand St
 02M545,High School for Dual Language and Asian Studies,M103  M14AD  M15  M15-SBS  M21  M22  M9,F  J  M  Z to Delancey St; to Essex St;  B  D to Grand St
 02M546,Academy for Software Engineering (AFSE),M1  M101  M103  M14AD  M15  M2  M23  M3  M34A-SBS  M5  M8  M9,1  2  3  F  M to 14 St;  4  5  6  L  N  Q  R to Union Sq - 14 St;  L to 3 Av
-02M551,Urban Assembly New York Harbor School,N/A,1  R to Sou Ferry ; 4  5 to Bowling Green
-02M580,Richa R. Green High School of Teaching,M15  M15-SBS  M20  M5,4  5 to Bowling Green;  J  Z to Broad St;  A  C to Fulton St - Broadway - Nassau;  1  R to Rector St;  2  3 to Wall St;  1  R to Whitehall;  E to World Trade Center
-02M600,The High School of Fashion Industries,M1  M11  M14AD  M20  M23  M34A-SBS  M34-SBS  M4  M5  M7,A  L to 14 St - 8 Av;  1  C  E  F  M to 23 St;  N  R to 28 St;  2  3 to 34 St -  Penn Station;  B  D  Q to 34 St - Herald Sq
-02M605,Humanities Preparatory Academy,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St - 8 Av;  1 to 18 St
+02M551,Urban Assembly New York Harbor School,N/A,1  R to South Ferry Loop; 4  5 to Bowling Green
+02M580,Richa R. Green High School of Teaching,M15  M15-SBS  M20  M5,4  5 to Bowling Green;  J  Z to Broad St;  A  C to Fulton St;  1  R to Rector St;  2  3 to Wall St;  1  R to Whitehall St;  E to World Trade Center
+02M600,The High School of Fashion Industries,M1  M11  M14AD  M20  M23  M34A-SBS  M34-SBS  M4  M5  M7,A  L to 14 St;  1  C  E  F  M to 23 St;  N  R to 28 St;  2  3 to 34 St - Penn Station;  B  D  Q to 34 St - Herald Sq
+02M605,Humanities Preparatory Academy,M11  M14AD  M20  M23  M5  M7,2  3  F  M to 14 St;  A  C  E  L to 14 St;  1 to 18 St
 02M615,Chelsea Career and Technical Education High School,M20  M21  M5,B  D  F  M to Broadway-Lafayette St;  1  6  A  J  N  Q  R  Z to Canal St;  N  R to Prince St;  C  E to Spring St
 02M630,Art and Design High School,M1  M101  M15  M3  M31  M50  M57  Q101  Q32  Q60,6  E  M to Lexington Av/53 St;  4  5  6  N  Q  R to Lexington Av/59 St;  F to Lexington Av/63 St
 02M655,Life Sciences Secondary School,M101  M106  M15  M15-SBS  M31  M86  M96  M98,6 to 96 St
@@ -76,8 +76,8 @@ DBN,Printed_Name,BUS,SUBWAY
 04M409,Coalition School for Social Change,BX15  M100  M101  M102  M103  M116  M15  M35  M60  M98,6 to 116 St;  4  5  6 to 125 St
 04M435,Manhattan Center for Science and Mathematics,M101  M102  M106  M116  M15  M35  M98,2  3  6 to 116 St; 4  5 to 125 St
 04M495,Park East High School,M1  M101  M102  M106  M15  M15-SBS  M2  M96  M98,6 to 103 St
-04M555,Central Park East High School,M1  M101  M102  M106  M15  M15-SBS  M2  M3  M96  M98,6 to 103 St;  2  3 to Central Park Nor (110 St)
-04M610,Young Women's Leadership School,M1  M101  M102  M106  M116  M15  M15-SBS  M2  M3  M98,6 to 103 St;  2  3 to Central Park Nor (110 St)
+04M555,Central Park East High School,M1  M101  M102  M106  M15  M15-SBS  M2  M3  M96  M98,6 to 103 St;  2  3 to Central Park North (110 St)
+04M610,Young Women's Leadership School,M1  M101  M102  M106  M116  M15  M15-SBS  M2  M3  M98,6 to 103 St;  2  3 to Central Park North (110 St)
 04M680,The Heritage School,M1  M101  M102  M106  M15  M15-SBS  M2  M3  M96  M98,6 to 103 St
 05M304,Mott Hall High School,BX19  BX33  M1  M10  M100  M101  M102  M104  M11  M2  M3  M4  M5  M7,A  D to 125 St;  2  3  B  C to 135 St;  1 to 137 St - City College
 05M362,Columbia Secondary School,BX15  M10  M100  M104  M11  M2  M3  M4  M5  M7,1  A  B  C  D to 125 St
@@ -86,30 +86,30 @@ DBN,Printed_Name,BUS,SUBWAY
 05M499,Frederick Douglass Academy,BX19  BX6  M1  M10  M102  M2  M3  M7,A  B  C  D to 145 St;  3 to Harlem - 148 St
 05M670,Thurgood Marshall Academy for Learning and Social Change,BX15  BX33  M1  M10  M100  M101  M102  M2  M3  M7,A  D to 125 St;  2  3  B  C to 135 St
 06M293,City College Academy of the Arts,BX7  M101  M3  M4,A to 190 St;  1 to Dyckman St
-06M346,Community Health Academy of the Heights,BX03  BX11  BX35  BX36  BX7  M101  M3  M4  M5  M98,1  A to 181St
-06M348,Washington Heights Expeditionary Learning School,BX11  BX18  BX3  BX35  BX36  BX7  M101  M3  M4  M5  M98,1  A to 181St
-06M423,High School for Excellence and Innovation,BX12  BX20  BX7  M100  M4,1 to Dyckman St;  A to Dyckman St - 200 St
-06M462,The College Academy,BX18  BX40  BX7  M101  M3  M4,A to 190 St;  1 to 191St
-06M463,High School for Media and Communications,BX18  BX40  BX7  M101  M3  M4,A to 190 St;  1 to 191St
-06M467,High School for Law and Public Service,BX18  BX40  BX7  M101  M3  M4,A to 190 St;  1 to 191St
-06M468,High School for Health Careers and Sciences,BX18  BX40  BX7  M101  M3  M4,A to 190 St;  1 to 191St
+06M346,Community Health Academy of the Heights,BX03  BX11  BX35  BX36  BX7  M101  M3  M4  M5  M98,1  A to 181 St
+06M348,Washington Heights Expeditionary Learning School,BX11  BX18  BX3  BX35  BX36  BX7  M101  M3  M4  M5  M98,1  A to 181 St
+06M423,High School for Excellence and Innovation,BX12  BX20  BX7  M100  M4,1 to Dyckman St;  A to Dyckman St
+06M462,The College Academy,BX18  BX40  BX7  M101  M3  M4,A to 190 St;  1 to 191 St
+06M463,High School for Media and Communications,BX18  BX40  BX7  M101  M3  M4,A to 190 St;  1 to 191 St
+06M467,High School for Law and Public Service,BX18  BX40  BX7  M101  M3  M4,A to 190 St;  1 to 191 St
+06M468,High School for Health Careers and Sciences,BX18  BX40  BX7  M101  M3  M4,A to 190 St;  1 to 191 St
 06M540,A. Philip Randolph Campus High School,BX15  BX19  BX33  M10  M100  M101  M104  M11  M2  M3  M4  M5,A  D to 125 St;  B  C to 135 St;  1 to 137 St - City College
-06M552,Gregorio Luperon High School for Science and Mathematics,BX6  BX7  M100  M101  M2  M3  M4  M5,1  A  C to 168 St -  Washington Hts
-07X221,South Bronx Preparatory: A College Boa School,BX1  BX15  BX17  BX19  BX2  BX21  BX32  BX33  BX4  BX41  BX55,4 to 138 St -  Grand Concourse;  6 to 3 Av - 138 St;  2  5 to 3 Av - 149 St
-07X223,The Laboratory School of Finance and Technology,BX1  BX15  BX17  BX19  BX2  BX21  BX32  BX33  BX4  BX41  BX55,4 to 138 St -  Grand Concourse;  6 to 3 Av - 138 St;  2  5 to 3 Av - 149 St
+06M552,Gregorio Luperon High School for Science and Mathematics,BX6  BX7  M100  M101  M2  M3  M4  M5,1  A  C to 168 St - Washington Hts
+07X221,South Bronx Preparatory: A College Boa School,BX1  BX15  BX17  BX19  BX2  BX21  BX32  BX33  BX4  BX41  BX55,4 to 138 St - Grand Concourse;  6 to 3 Av - 138 St;  2  5 to 3 Av - 149 St
+07X223,The Laboratory School of Finance and Technology,BX1  BX15  BX17  BX19  BX2  BX21  BX32  BX33  BX4  BX41  BX55,4 to 138 St - Grand Concourse;  6 to 3 Av - 138 St;  2  5 to 3 Av - 149 St
 07X334,International Community High School,BX1  BX15  BX17  BX19  BX2  BX21  BX32  BX33  BX4  BX41  BX55,2  5 to 3 Av - 149 St;  6 to Brook Av
-07X427,Community School for Social Justice,BX1  BX15  BX19  BX2  BX32  BX33  M1  M102  M7,4  5 to 138 St -  Grand Concourse;  3 to 145 St;  2 to 149 St -  Grand Concourse;  6 to 3 Av - 138 St
+07X427,Community School for Social Justice,BX1  BX15  BX19  BX2  BX32  BX33  M1  M102  M7,4  5 to 138 St - Grand Concourse;  3 to 145 St;  2 to 149 St - Grand Concourse;  6 to 3 Av - 138 St
 07X473,Mott Haven Village Preparatory High School,BX13  BX15  BX17  BX19  BX2  BX21  BX4  BX41  BX55  BX6,2  5 to Jackson Av
 07X495,University Heights Secondary School,BX13  BX15  BX17  BX19  BX2  BX21  BX4  BX41  BX55  BX6,2  5 to Jackson Av
-07X500,Hostos-Lincoln Academy of Science,BX15  BX17  BX19  BX2  BX21  BX4  BX41  BX55,6 to E 149 St -  StMary's St;  2  5 to Jackson Av
-07X520,Foreign Language Academy of Global Studies,BX17  BX19  BX33  BX4,6 to E 143 St - StMary's St;  2  5 to Jackson Av
-07X522,Bronx Design and Construction Academy,BX1  BX13  BX15  BX17  BX19  BX2  BX21  BX32  BX4  BX41  BX55  BX6,4 to 149 St -  Grand Concourse;  2  5 to 3 Av - 149 St
-07X527,Bronx Leadership Academy II High School,BX1  BX13  BX19  BX2  BX32  BX41  BX6,2  4  5 to 149 St -  Grand Concourse;  B  D to 161 St - Yankee Stadium
-07X547,New Explorers High School,BX1  BX13  BX19  BX2  BX32  BX41  BX6,2  4  5 to 149 St -  Grand Concourse;  B  D to 161 St - Yankee Stadium
-07X548,Urban Assembly School for Careers in Sports,BX1  BX13  BX19  BX2  BX32  BX41  BX6,2  4  5 to 149 St -  Grand Concourse;  B  D to 161 St - Yankee Stadium
-07X551,The Urban Assembly Bronx Academy of Letters,BX1  BX15  BX17  BX19  BX2  BX21  BX32  BX33  BX4  BX41  BX55,4  5 to 138 St -  Grand Concourse;  2 to 149 St -  Grand Concourse;  6 to 3 Av - 138 St;  2  5 to 3 Av - 149 St;  6 to Brook Av
-07X600,Alfred E. Smith Career and Technical Education High School,BX1  BX13  BX15  BX17  BX19  BX2  BX21  BX32  BX4  BX41  BX55  BX6,4 to 149 St -  Grand Concourse;  2  5 to 3 Av - 149 St
-07X670,Health Opportunities High School,BX1  BX15  BX19  BX2  BX32  BX33  M1  M102  M7,4  5 to 138 St -  Grand Concourse;  3 to 145 St;  2 to 149 St -  Grand Concourse;  6 to 3 Av - 138 St
+07X500,Hostos-Lincoln Academy of Science,BX15  BX17  BX19  BX2  BX21  BX4  BX41  BX55,6 to E 149 St -  St Mary's St;  2  5 to Jackson Av
+07X520,Foreign Language Academy of Global Studies,BX17  BX19  BX33  BX4,6 to E 143 St - St Mary's St;  2  5 to Jackson Av
+07X522,Bronx Design and Construction Academy,BX1  BX13  BX15  BX17  BX19  BX2  BX21  BX32  BX4  BX41  BX55  BX6,4 to 149 St - Grand Concourse;  2  5 to 3 Av - 149 St
+07X527,Bronx Leadership Academy II High School,BX1  BX13  BX19  BX2  BX32  BX41  BX6,2  4  5 to 149 St - Grand Concourse;  B  D to 161 St - Yankee Stadium
+07X547,New Explorers High School,BX1  BX13  BX19  BX2  BX32  BX41  BX6,2  4  5 to 149 St - Grand Concourse;  B  D to 161 St - Yankee Stadium
+07X548,Urban Assembly School for Careers in Sports,BX1  BX13  BX19  BX2  BX32  BX41  BX6,2  4  5 to 149 St - Grand Concourse;  B  D to 161 St - Yankee Stadium
+07X551,The Urban Assembly Bronx Academy of Letters,BX1  BX15  BX17  BX19  BX2  BX21  BX32  BX33  BX4  BX41  BX55,4  5 to 138 St - Grand Concourse;  2 to 149 St - Grand Concourse;  6 to 3 Av - 138 St;  2  5 to 3 Av - 149 St;  6 to Brook Av
+07X600,Alfred E. Smith Career and Technical Education High School,BX1  BX13  BX15  BX17  BX19  BX2  BX21  BX32  BX4  BX41  BX55  BX6,4 to 149 St - Grand Concourse;  2  5 to 3 Av - 149 St
+07X670,Health Opportunities High School,BX1  BX15  BX19  BX2  BX32  BX33  M1  M102  M7,4  5 to 138 St - Grand Concourse;  3 to 145 St;  2 to 149 St - Grand Concourse;  6 to 3 Av - 138 St
 08X269,The Urban Assembly Bronx Studio School for Writers and Artists,BX11  BX17  BX19  BX27  BX35  BX4  BX5  BX6,6 to Hunts Point Av;  2  5 to Intervale Av
 08X282,Women's Academy of Excellence,BX22  BX27  BX36  BX39  BX5,6 to Parkchester
 08X293,Renaissance High School for Musical Theater & Technology,BX21  BX24  BX31  BX4  BX40  BX4A  BX8,6 to Westchester Sq - E Tremont Av - East Tremont Av
